@@ -216,6 +216,14 @@ p {
   width: 100%;
 }
 
+.blog-img1 {
+  margin: 50px 0px;
+}
+
+.blog-img1 img {
+  width: 100%;
+}
+
 .lets-work-together {
   display: flex;
   flex-direction: column;
